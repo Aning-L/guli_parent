@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("测试冲突 master");
         System.out.println("测试冲突hotfix");
         System.out.println("0.0");
+        System.out.println("呜啦啦");
     }
 }
